@@ -1,7 +1,7 @@
 ---
-title: Brisbane Computer Repairs
-subtitle: Call 0435619337 now for free advice
-image: /img/home-jumbotron.jpg
+title: Great coffee with a conscience
+subtitle: Support sustainable farming while enjoying a cup
+image: /img/slider_1.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
