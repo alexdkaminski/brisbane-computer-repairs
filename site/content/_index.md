@@ -3,12 +3,11 @@ title: Brisbane Computer Repairs
 subtitle: Call 0435 619 337 now for free advice
 image: /img/slider_1.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Call Us?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Brisbane Computer Repair will give you free advice on how to solve your
+    computer problem. We have technicians across Brisbane that can come to your
+    home or office and perform a computer repair today.
 intro:
   heading: What we offer
   text: >-
