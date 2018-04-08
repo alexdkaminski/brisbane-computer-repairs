@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Brisbane Computer Repairs
+subtitle: Call 0435619337 now for free advice
 image: /img/slider_1.jpg
 blurb:
   heading: Why Kaldi?
