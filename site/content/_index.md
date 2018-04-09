@@ -10,7 +10,10 @@ blurb:
     home or office and perform a computer repair today.
 intro:
   heading: What we offer
-  text: 'We '
+  text: >-
+    We can diagnose and repair any sort of computer or IT problem. Whether it is
+    a computer that won't boot or a new device that you need help setting up, we
+    are here to help.
 products:
   - image: /img/1.png
     text: >-
@@ -29,9 +32,9 @@ products:
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    We have a passion for problem solving and will do our best to fix your IT
+    problems as quickly as possible. We are committed to constantly training to
+    perfect our service so that we can ensure every customer walks away
+    satisfied.
 ---
 
