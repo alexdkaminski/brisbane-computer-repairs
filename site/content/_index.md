@@ -31,6 +31,7 @@ products:
     text: 'Online threats, viruses, hackers! Isn’t your head spinning already?'
 values:
   heading: Our values
+  image: /img/tech.png
   text: >-
     We have a passion for problem solving and will do our best to fix your IT
     problems as quickly as possible. We are committed to constantly training to
