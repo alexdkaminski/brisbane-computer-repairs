@@ -1,5 +1,5 @@
 ---
-title: Computer repair done in an hour
+title: Quick computer repair!
 date: '2018-04-09T09:24:55+10:00'
 description: >-
   Alex was able to fix my Macbook that was not booting up at all. He provided a
