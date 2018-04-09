@@ -1,7 +1,7 @@
 ---
 title: Brisbane Computer Repairs
 subtitle: Call 0435 619 337 now for free advice!
-image: /img/slider_1.jpg
+image: /img/bg.jpg
 blurb:
   heading: Why Call Us?
   text: >-
