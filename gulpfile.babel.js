@@ -1,3 +1,4 @@
+var critical = require('critical');
 import gulp from "gulp";
 import cp from "child_process";
 import gutil from "gulp-util";
@@ -35,6 +36,7 @@ gulp.task("css", () => (
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
+
 
 gulp.task("cms-assets", () => (
   gulp.src("./node_modules/netlify-cms/dist/*.{woff,eot,woff2,ttf,svg,png}")
@@ -96,3 +98,15 @@ function buildSite(cb, options) {
     }
   });
 }
+
+gulp.task('critical', ['build'], function (cb) {
+    critical.generate({
+        inline: true,
+        base: 'dist/',
+        src: 'index.html',
+        dest: 'dist/index-critical.html',
+        minify: true,
+        width: 320,
+        height: 480
+    });
+});
