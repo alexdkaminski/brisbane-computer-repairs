@@ -1,5 +1,5 @@
 ---
-title: Brisbane Computer Repairs
+title: Brisbane Computer Repair
 subtitle: Call 0435 619 337 now for free advice!
 image: /img/slider_1.jpg
 blurb:
@@ -7,7 +7,7 @@ blurb:
   text: >-
     Brisbane Computer Repair will give you free advice on how to solve your
     computer problem. We have technicians across Brisbane that can come to your
-    home or office and perform a computer repair today.
+    home or office and fix your computer or laptop today.
 intro:
   heading: What we offer
   text: >-
